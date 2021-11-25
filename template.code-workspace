@@ -20,6 +20,7 @@
       "satokaz.vscode-bs-ctrlchar-remover",
       "chrmarti.regex",
       "richie5um2.vscode-sort-json",
+      "janisdd.vscode-edit-csv",
       "redhat.vscode-yaml",
       "mikestead.dotenv",
       "yzhang.markdown-all-in-one",
@@ -38,6 +39,7 @@
       // terraform
       "hashicorp.terraform",
       // Front
+      "tht13.html-preview-vscode",
       "abusaidm.html-snippets",
       "formulahendry.auto-close-tag",
       "esbenp.prettier-vscode",
